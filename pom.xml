@@ -421,6 +421,10 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</repository>
+		<repository>
+			<id>primefaces</id>
+			<url>http://repository.primefaces.org/</url>
+		</repository>
 	</repositories>
 
 </project>
